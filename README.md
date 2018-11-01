@@ -1,2 +1,2 @@
 # testnodegit
-test node git
+test node gitx
